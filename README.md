@@ -10,7 +10,6 @@ LocalChat es una aplicación de inteligencia artificial basada en el modelo GPT-
 - **Comandos Especiales**: LocalChat admite comandos especiales para realizar tareas adicionales. Por ejemplo, puedes pedirle que genere un resumen de un artículo o que te ayude a escribir un correo electrónico.
 - **Guardado de Conversaciones**: LocalChat almacena tus conversaciones en tu dispositivo, lo que te permite revisarlas más tarde o exportarlas si lo deseas.
 
-
 ### Cómo Usar bartGPT  
 - Abrir la Aplicación: Simplemente abre tu navegador y accede a la URL local donde tienes instalada LocalChat.
 - Escribe tus Mensajes: Escribe tus preguntas, comentarios o cualquier cosa que quieras decirle a LocalChat en la caja de texto.
@@ -19,4 +18,9 @@ LocalChat es una aplicación de inteligencia artificial basada en el modelo GPT-
 ### Requisitos del Sistema
 - Navegador web moderno (Chrome, Firefox, Edge, etc.)
 - Al menos 8 GB de RAM
-- El espacio de almacenamiento para guardar las conversaciones dependerá del navegador utilizado.
+- El espacio de almacenamiento para guardar las conversaciones dependerá del navegador utilizado.  
+
+  
+### Screenshot
+
+![](./assets/bartGPT.gif )
